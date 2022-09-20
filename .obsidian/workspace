@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "936218cdd46b743f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5a7a673e428e88a",
+        "type": "leaf",
+        "dimension": 51.344086021505376,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 1 Earth Systems and Cycles.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "4d6404ddf0dcb8c7"
+      },
+      {
+        "id": "09673a5211c9470a",
+        "type": "leaf",
+        "dimension": 48.655913978494624,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 1 Earth Systems and Cycles.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "4d6404ddf0dcb8c7"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96aa9a044757d605",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b2545a1e5018ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c0dcd3fae0926fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8f0c55b06006516",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d30e939a187c2713",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5a80d6c48d82155",
+    "type": "split",
+    "children": [
+      {
+        "id": "13a3afda4292882c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cb0722e118a9fa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 1 Earth Systems and Cycles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb3c2693c276c5f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 1 Earth Systems and Cycles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "611cf024d8f201ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "03d5b6e78d66e269",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 1 Earth Systems and Cycles.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5a7a673e428e88a",
+  "lastOpenFiles": [
+    "EAS 100.md",
+    "Chapter 1 Earth Systems and Cycles.md",
+    "Fall 2022.md",
+    "Home Page.md",
+    "WRS 102.md",
+    "Lecture 1.md",
+    "ACCTG 300.md",
+    "Pasted image 20220906191510.png",
+    "Microsoft PowerPoint - EAS100-201 Intro20220901.pdf"
+  ]
+}

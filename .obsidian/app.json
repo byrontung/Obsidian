@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "tabSize": 2,
+  "pdfExportSettings": {
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true
+}
