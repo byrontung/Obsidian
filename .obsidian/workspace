@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 1 Earth Systems and Cycles.md",
+            "file": "Chapter 2 The Earth in Space.md",
             "mode": "source",
             "source": false
           }
@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 1 Earth Systems and Cycles.md",
-            "mode": "preview",
+            "file": "Chapter 2 The Earth in Space.md",
+            "mode": "source",
             "source": false
           }
         },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 Earth Systems and Cycles.md",
+                "file": "Chapter 2 The Earth in Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 Earth Systems and Cycles.md",
+                "file": "Chapter 2 The Earth in Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 Earth Systems and Cycles.md"
+                "file": "Chapter 2 The Earth in Space.md"
               }
             }
           }
@@ -144,16 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b5a7a673e428e88a",
+  "active": "1c0dcd3fae0926fd",
   "lastOpenFiles": [
-    "EAS 100.md",
+    "Templates/Fall 2022 Template.md",
+    "README.md",
+    "Submission Template.md",
     "Chapter 1 Earth Systems and Cycles.md",
+    "Chapter 2 The Earth in Space.md",
+    "EAS 100.md",
     "Fall 2022.md",
     "Home Page.md",
     "WRS 102.md",
-    "Lecture 1.md",
-    "ACCTG 300.md",
-    "Pasted image 20220906191510.png",
-    "Microsoft PowerPoint - EAS100-201 Intro20220901.pdf"
+    "Lecture 1.md"
   ]
 }
