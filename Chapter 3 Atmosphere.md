@@ -5,9 +5,15 @@ ___
 ## Important Links
 - 
 ___
+## Questions
+- What is nucleation energy?
+- What is adiabatic lapse rate?
+- Why is the ITCZ low pressure?
+___
 ## Definitions
 
 - Aerosols are suspended material in the air.
+- Adiabatic is when no heat is exchanged with the surroundings.
 
 ___
 ## Notes
@@ -35,7 +41,8 @@ ___
 	- 1 atm
 - Isobars is pressure that varies across the surface of the Earth.
 	- Air goes from regions of high pressure to low pressure.
-- Heat rises, but as altitude rises pressure drops.
+- Hot air rises, but as altitude rises pressure drops. 
+	- This change is called adiabatic.
 	- From the lack of pressure, the gas cools.
 	- Explains why tops of mountains are colder than valleys below.
 ### Structure of Atmosphere
@@ -94,7 +101,17 @@ ___
 		- Adding more water vapour increases vapour pressure, or lowering the temperature so that saturated vapour pressure will be lower.
 - Dew point happens when oversaturation of relative humidity causing the vapour to condense to reduce vapour pressure in the air.
 - Nucleation is when water droplets form clouds.
+	- Nucleation energy 
 	- As size increases, so does collisions, which cause raindrop
-
-# EAS ASTRO 2 SLIDE 9
+### Atmospheric Circulation
+- Solar energy is concentrated near the equator.
+	- Therefore heat transfer is normally from the equator to the points.
+	- This comes in the form of atomspheric and oceanic circulation.
+- Pressure-gradient flow is when air of high pressure goes to low pressure.
+- Low pressure and clouds near equator is called Intertropical convergence zone (ITCZ)
+- Wind speed is controlled by pure gradient.
+- Isobars indication of similar pressures.
+	- If isobars are far apart, then the presure gradient is low, and the winds are slow.
+	- ![[Pasted image 20220928224859.png]]
+- Coriolis effect 
 ___
