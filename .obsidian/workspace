@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a780875f203e2593",
@@ -131,6 +130,8 @@
   },
   "active": "e0b0ee6245cf7274",
   "lastOpenFiles": [
+    "Chapter 2 The Earth in Space.md",
+    "Chapter 3 Atmosphere.md",
     "EAS 100.md",
     "Fall 2022.md",
     "CMPUT 404.md",
