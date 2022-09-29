@@ -5,6 +5,9 @@ ___
 ## Important Links
 - [TCP Packet Naming](https://www.howtouselinux.com/post/tcp-flags) 
 ___
+## Questions
+- What is the difference between address and destination in the ethernet vs IP
+___
 ## Definitions
 
 - Web ; Network of software/virtual pages (Wiki pages, blog posts, etc.) which is connected by hyperlinks, redirects, images, videos, HTML, etc.;
