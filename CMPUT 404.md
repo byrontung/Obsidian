@@ -1,15 +1,11 @@
 ###### Back to [[Fall 2022]]
 ---
 # CMPUT 404 - Web Applications and Architecture
-___
 ## Important Links
 - [TCP Packet Naming](https://www.howtouselinux.com/post/tcp-flags) 
-___
 ## Questions
 - What is the difference between address and destination in the ethernet vs IP
-___
 ## Definitions
-
 - Web ; Network of software/virtual pages (Wiki pages, blog posts, etc.) which is connected by hyperlinks, redirects, images, videos, HTML, etc.;
 - Internet ; Network of computers/hardware (desktops, laptops, phones, etc.) which is linked by wifi, ethernet, cell towers, satelites, etc;
 - HTML ; HyperText Markup Language. Information sent from web servers to web browers.;
@@ -33,4 +29,9 @@ ___
 	- Private Vs. Public Networks
 		- Private networks are IP addresses that are given from your router.
 		- Public networks are IP addresses that are given from internet providers.
+	- Layer ordering (largest to smallest): Physical, ethernet, IP, UDP, DNS
+	- Largest UDP unfragmented message you can send is 1480 if you count UDP headers or 1472 including payload size of UDP message.
+	- Largest UDP message you can send with fragmentation is 65508 bytes\
+	- End headers with "\\r\\n"
+	- 
 ___

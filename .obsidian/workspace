@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "2fa6f49ab3f5388b",
+    "id": "99769c18f091be34",
     "type": "split",
     "children": [
       {
-        "id": "e0b0ee6245cf7274",
+        "id": "e3a510e7635a1071",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 3 Atmosphere.md",
+            "file": "CMPUT 404.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d7c73d32a1ef1854",
+    "id": "2b8ffade1112f631",
     "type": "split",
     "children": [
       {
-        "id": "2d14cad341d2dc3f",
+        "id": "cdce1eaf08e543b4",
         "type": "tabs",
         "children": [
           {
-            "id": "63fc4bd3263177bc",
+            "id": "74d83c94ab0d6d2f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "baed4a8904be0cc5",
+            "id": "e59fd24a0ffc1d06",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "aff07939b9bb160d",
+            "id": "c34152d558cea75f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "a780875f203e2593",
+    "id": "f265c879afca2341",
     "type": "split",
     "children": [
       {
-        "id": "c607b5b24d990bfd",
+        "id": "366cf481837bc675",
         "type": "tabs",
         "children": [
           {
-            "id": "bb2a7fb34749c820",
+            "id": "d3985dd985b4334e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3 Atmosphere.md",
+                "file": "CMPUT 404.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +89,19 @@
             }
           },
           {
-            "id": "113314311b12cfe2",
+            "id": "f4ca07fa8d8b42f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3 Atmosphere.md",
+                "file": "CMPUT 404.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "610a59c5f08a2ef4",
+            "id": "2292361d6eb60c1b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +112,12 @@
             }
           },
           {
-            "id": "5d78fdac8c7aa1a3",
+            "id": "a2d205a366a58aca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3 Atmosphere.md"
+                "file": "CMPUT 404.md"
               }
             }
           }
@@ -128,14 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e0b0ee6245cf7274",
+  "active": "e3a510e7635a1071",
   "lastOpenFiles": [
-    "Chapter 2 The Earth in Space.md",
-    "Chapter 3 Atmosphere.md",
-    "EAS 100.md",
-    "Fall 2022.md",
+    "Untitled.md",
     "CMPUT 404.md",
     "Internet Layer.md",
-    "Link Layer.md"
+    "Link Layer.md",
+    "Fall 2022.md",
+    "Chapter 3.2 Weather.md",
+    "EAS 100.md",
+    "Chapter 3 Atmosphere.md",
+    "Chapter 2 The Earth in Space.md",
+    "ACCTG 300.md"
   ]
 }

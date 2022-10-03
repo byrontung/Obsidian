@@ -9,6 +9,7 @@ ___
 - What is nucleation energy?
 - What is adiabatic lapse rate?
 - Why is the ITCZ low pressure?
+- What is coriolis effect?
 ___
 ## Definitions
 
@@ -114,4 +115,12 @@ ___
 	- If isobars are far apart, then the presure gradient is low, and the winds are slow.
 	- ![[Pasted image 20220928224859.png]]
 - Coriolis effect 
+	- Topics related to coriolis effect: hadley cell, polar cell, ferrell cell, ?polar front/Rossby waves?
+## Air Masses
+- Air masses are large voluesm of air that have internally consistent properties such as pressure, humidity and tempurature.
+	- c -> contient, m -> maritime
+	- A -> arctic, P -> polar, T -> tropical
+	- ![[Pasted image 20221001145652.png]]
+	- ![[Pasted image 20221001150228.png]]
+	-
 ___
