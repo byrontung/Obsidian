@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CMPUT 404.md",
+            "file": "Chapter 3.2 Weather.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 404.md",
+                "file": "Chapter 3.2 Weather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 404.md",
+                "file": "Chapter 3.2 Weather.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 404.md"
+                "file": "Chapter 3.2 Weather.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "e3a510e7635a1071",
   "lastOpenFiles": [
-    "Untitled.md",
     "CMPUT 404.md",
+    "Untitled.md",
     "Internet Layer.md",
     "Link Layer.md",
     "Fall 2022.md",
