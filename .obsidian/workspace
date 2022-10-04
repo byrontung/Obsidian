@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "99769c18f091be34",
+    "id": "2fa6f49ab3f5388b",
     "type": "split",
     "children": [
       {
-        "id": "e3a510e7635a1071",
+        "id": "e0b0ee6245cf7274",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2b8ffade1112f631",
+    "id": "d7c73d32a1ef1854",
     "type": "split",
     "children": [
       {
-        "id": "cdce1eaf08e543b4",
+        "id": "2d14cad341d2dc3f",
         "type": "tabs",
         "children": [
           {
-            "id": "74d83c94ab0d6d2f",
+            "id": "63fc4bd3263177bc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "e59fd24a0ffc1d06",
+            "id": "baed4a8904be0cc5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "c34152d558cea75f",
+            "id": "aff07939b9bb160d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,18 +61,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "f265c879afca2341",
+    "id": "a780875f203e2593",
     "type": "split",
     "children": [
       {
-        "id": "366cf481837bc675",
+        "id": "c607b5b24d990bfd",
         "type": "tabs",
         "children": [
           {
-            "id": "d3985dd985b4334e",
+            "id": "bb2a7fb34749c820",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -89,7 +90,7 @@
             }
           },
           {
-            "id": "f4ca07fa8d8b42f4",
+            "id": "113314311b12cfe2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -101,7 +102,7 @@
             }
           },
           {
-            "id": "2292361d6eb60c1b",
+            "id": "610a59c5f08a2ef4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,7 +113,7 @@
             }
           },
           {
-            "id": "a2d205a366a58aca",
+            "id": "5d78fdac8c7aa1a3",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,17 +129,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3a510e7635a1071",
+  "active": "e0b0ee6245cf7274",
   "lastOpenFiles": [
-    "CMPUT 404.md",
-    "Untitled.md",
-    "Internet Layer.md",
-    "Link Layer.md",
-    "Fall 2022.md",
+    "Untitled 1.md",
     "Chapter 3.2 Weather.md",
     "EAS 100.md",
+    "Fall 2022.md",
+    "CMPUT 404.md",
+    "Internet Layer.md",
     "Chapter 3 Atmosphere.md",
     "Chapter 2 The Earth in Space.md",
-    "ACCTG 300.md"
+    "Link Layer.md"
   ]
 }
