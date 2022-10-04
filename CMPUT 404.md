@@ -29,9 +29,44 @@ ___
 	- Private Vs. Public Networks
 		- Private networks are IP addresses that are given from your router.
 		- Public networks are IP addresses that are given from internet providers.
-	- Layer ordering (largest to smallest): Physical, ethernet, IP, UDP, DNS
-	- Largest UDP unfragmented message you can send is 1480 if you count UDP headers or 1472 including payload size of UDP message.
-	- Largest UDP message you can send with fragmentation is 65508 bytes\
-	- End headers with "\\r\\n"
-	- 
+- Layer ordering (largest to smallest): Physical, ethernet, IP, UDP, DNS
+- Largest UDP unfragmented message you can send is 1480 if you count UDP headers or 1472 including payload size of UDP message.
+- Largest UDP message you can send with fragmentation is 65508 bytes
+- End headers with "\\r\\n"
+- All URLs are URIs but not all URIs are URLs.
+	- URI is more of a name, vs URL is more of the address of the name.
+	- URI -> universal resource identifier
+	- URIs have two subclasses -> URNs and URLs
+- URL Format
+	- Scheme : authority -> user:password (optional) hostname :post (optional) -> path -> ?query (optional) -> \#argument (optional)
+	- Comes in the scheme and then everything else.
+	- http, https, mailto, file, data
+- HTTP Commands are made into a URI.
+	- GET - Retrieve information from the URI.
+	- POST - Run search, log-in, append data, change data.
+	- HEAD - GET without a message body (for caching).
+	- PUT - Store the entity at the URI.
+	- DELETE - Delete the resource at that URI.
+- ![[Pasted image 20221004034940.png]]
+- They also have absolute and relative options as well
+	- http://[::1]:8000/images/web-server.svg
+		- Absolute authority, absolute path
+	- http://[::1]:8000/images/../index.html
+		- Absolute authority, relative path
+	- /images/web-server.svg
+		- Implied authority, absolute path
+	- images/web-server.svg
+		- Implied authority, relative path
+- We are allowed to use Python URI Unicode UTF-8 encoders
+	- Only use encoders when the character is not  ` -._0-9a-zA-Z`
+	- Unless its the domain name, then we use punycode
+### Queries
+- Can have more than one or more arguments with an ampersand/semicolon to connect multiple queries.
+- In the form  `key=value&key2=value2 `
+### Fragments
+- Where the # starts.
+- Fragment is not sent to the webserver.
+- The purpose is to jump to a certain point of the link.
+	- Time from youtube, id of an element in the DOM.
+- 
 ___

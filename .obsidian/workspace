@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 3.2 Weather.md",
+            "file": "CMPUT 404.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3.2 Weather.md",
+                "file": "CMPUT 404.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3.2 Weather.md",
+                "file": "CMPUT 404.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3.2 Weather.md"
+                "file": "CMPUT 404.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "e3a510e7635a1071",
   "lastOpenFiles": [
+    "imgonline-com-ua-twotoone-ItHmqaQ3NjJjXkn.jpg",
     "CMPUT 404.md",
+    "Fall 2022.md",
+    "Chapter 3.2 Weather.md",
     "Untitled.md",
     "Internet Layer.md",
     "Link Layer.md",
-    "Fall 2022.md",
-    "Chapter 3.2 Weather.md",
     "EAS 100.md",
     "Chapter 3 Atmosphere.md",
-    "Chapter 2 The Earth in Space.md",
-    "ACCTG 300.md"
+    "Chapter 2 The Earth in Space.md"
   ]
 }
